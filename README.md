@@ -1,4 +1,4 @@
-<h1 align="center">Hello world 👋 This is Subham Shrestha</h1>
+<h1 align="center">Hello  👋 This is Subham Shrestha</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
 <h3 align="left">Connect with me:</h3>
