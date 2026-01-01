@@ -37,8 +37,7 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shresthasubham&" alt="shresthasubham" /></p>
-
+ <p><img align="center" src="https://streak-stats.demolab.com?user=shresthasubham" alt="shresthasubham" /></p>
 <p align="center">
 ⭐ Learning • Building • Securing Systems
 </p>
