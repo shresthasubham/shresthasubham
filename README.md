@@ -50,12 +50,12 @@ Computer Engineering graduate (Pulchowk Campus, IOE, Tribhuvan University) worki
 ## Research & Projects
 
 - **Deep Learning-Based Malware Detection with Adversarial Robustness** — Adversarial training with GANs and a modified MalConv CNN model to improve malware classification robustness
-- **[Self-Explaining Raw-Byte Malware Detector])** — Interpretable deep learning model for malware detection from raw byte sequences
-- **[Time-Series Forecasting on BODMAS Malware Dataset]** — ARIMA, Prophet, and LSTM models predicting emerging malware families and concept drift
+- **Self-Explaining Raw-Byte Malware Detector** — Interpretable deep learning model for malware detection from raw byte sequences
+- **Time-Series Forecasting on BODMAS Malware Dataset** — ARIMA, Prophet, and LSTM models predicting emerging malware families and concept drift
 - **Endpoint Security & Malware Detection with Wazuh and YARA** — Centralized log collection, file integrity monitoring, and automated malware remediation workflows
 - **Memory Forensics with Volatility** — RAM analysis to uncover malicious processes, rootkits, and malware persistence mechanisms
-- **[Aicapella — CNN-Based Voice Isolator]** — CNN-based vocal separation from audio recordings
-- **[GPT-2 From Scratch]** — GPT-2 architecture implemented from scratch in PyTorch
+- **Aicapella — CNN-Based Voice Isolator** — CNN-based vocal separation from audio recordings
+- **GPT-2 From Scratch** — GPT-2 architecture implemented from scratch in PyTorch
 - **Baghchal Game (C++ / SFML)** — Classic Nepali strategy board game with full game logic and GUI
 
 ## Experience
@@ -68,13 +68,6 @@ Computer Engineering graduate (Pulchowk Campus, IOE, Tribhuvan University) worki
 
 - ISC2 Certified in Cybersecurity (CC) — 2025
 - Security Operations, LogPoint Nepal — 2025
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shresthasubham&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthasubham&layout=compact&hide_border=true" height="165" />
-</p>
 
 ## Contact
 
