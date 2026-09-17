@@ -8,9 +8,7 @@
   <a href="mailto:ss9051@rit.edu">
     <img src="https://img.shields.io/badge/Email-ss9051%40rit.edu-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/subham-shrestha">
-    <img src="https://img.shields.io/badge/LinkedIn-subham--shrestha-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+
   <a href="https://github.com/shresthasubham">
     <img src="https://img.shields.io/badge/GitHub-shresthasubham-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
